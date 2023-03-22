@@ -7,6 +7,7 @@ This repository contains code and data necessary to replicate data analysis and 
 - [Code](https://github.com/mfischer-edi/LaamuProject/tree/main/code): Contains scripts to run data analysis and plot figures
 - [Data](https://github.com/mfischer-edi/LaamuProject/tree/main/data): Contains data necessary to run the scripts
 - [Outputs](https://github.com/mfischer-edi/LaamuProject/tree/main/outputs): Contains outputs from the script
+- [Other data](https://github.com/mfischer-edi/LaamuProject/tree/main/other_data): Contains excel sheets for plots not done in R
 
 ## Data
 
