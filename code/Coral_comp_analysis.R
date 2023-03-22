@@ -1,5 +1,5 @@
 # Laamu Coral Reef monitoring project
-# Code for coral growth form analysis
+# Code for coral community composition analysis
 
 # Written by Mara Fischer
 # E-mail: mf555@exeter.ac.uk
