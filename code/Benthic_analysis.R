@@ -1,5 +1,6 @@
-# Laamu Coral Reef monitoring script
-# Code for all modelling and data visualisation within the manuscript
+# Laamu Coral Reef monitoring project
+# Script for analysis of spatiotemporal changes in the benthic community composition,
+# and analysis of anthropogenic and non-human reef impacts.
 
 # Written by Mara Fischer
 # E-mail: mf555@exeter.ac.uk
