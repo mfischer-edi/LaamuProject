@@ -1,0 +1,39 @@
+"","Site.id","year","Site.name","reef.type","abundance","Hard.coral"
+"1","FI","2019","Fonadhoo inside","inside",95,21.9825
+"2","FI","2021/22","Fonadhoo inside","inside",155,40.915
+"3","FK","2019","Fushi kandu","channel",404,16.0525
+"4","FK","2021/22","Fushi kandu","channel",300,36.2775
+"5","FO","2019","Fonadhoo outside","outside",78,15.33
+"6","FO","2021/22","Fonadhoo outside","outside",213,34.0525
+"7","GI","2019","Gaadhoo inside","inside",122,26.795
+"8","GI","2021/22","Gaadhoo inside","inside",161,24.9175
+"9","GO","2019","Gaadhoo outside","outside",116,10.5725
+"10","GO","2021/22","Gaadhoo outside","outside",159,12.98
+"11","HC","2019","Hithadhoo corner","channel",99,6.9925
+"12","HC","2021/22","Hithadhoo corner","channel",77,18.49
+"13","HI","2019","Hithadhoo inside","inside",280,18.7475
+"14","HI","2021/22","Hithadhoo inside","inside",102,18.5825
+"15","HW","2019","Hithadhoo west","channel",151,18.8825
+"16","HW","2021/22","Hithadhoo west","outside",180,37.5425
+"17","KO","2019","Kurethi outside","outside",176,10.3375
+"18","KO","2021/22","Kurethi outside","outside",257,16.8975
+"19","LF","2019","Laamafaruhaa","thila",105,13.9025641
+"20","LF","2021/22","Laamafaruhaa","thila",324,26.0125
+"21","MBI","2019","Maabaidhoo inside","inside",149,34.36
+"22","MBI","2021/22","Maabaidhoo inside","inside",114,28.5375
+"23","MBO","2019","Maabaidhoo outside","outside",192,18.9675
+"24","MBO","2021/22","Maabaidhoo outside","outside",330,20.6025
+"25","MC","2019","Maavah corner","channel",242,23.6325
+"26","MC","2021/22","Maavah corner","channel",206,30.8825
+"27","MI","2019","Maavah inside","inside",114,7.91
+"28","MI","2021/22","Maavah inside","inside",268,40.4625
+"29","MO","2019","Maavah outside","outside",204,26.7425
+"30","MO","2021/22","Maavah outside","outside",112,12.9875
+"31","OC","2019","Olhuveli corner","channel",118,9.835
+"32","OC","2021/22","Olhuveli corner","channel",132,14.485
+"33","OI","2019","Olhutholhu inside","inside",92,14.59230769
+"34","OI","2021/22","Olhutholhu inside","inside",103,25.695
+"35","OR","2019","Olhuveli reef","inside",106,8.6625
+"36","OR","2021/22","Olhuveli reef","inside",129,28.08
+"37","RDH","2019","Rahdhashuhaa","thila",202,20.47
+"38","RDH","2021/22","Rahdhashuhaa","thila",282,41.95

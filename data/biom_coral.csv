@@ -1,0 +1,111 @@
+"","Site.name","Depth","Rep","Biomass","Reef.type","Total.coral"
+"1","Baresdhoo inside",5,"Rep1",266.286466252842,"Inner",38.92
+"2","Baresdhoo inside",5,"Rep2",51.8748225515217,"Inner",39.22
+"3","Baresdhoo inside",10,"Rep1",62.0881300220392,"Inner",23.14
+"4","Baresdhoo inside",10,"Rep2",502.783976730406,"Inner",13.64
+"5","Fonadhoo inside",5,"Rep1",113.111507805462,"Inner",30.6
+"6","Fonadhoo inside",5,"Rep2",98.0466553802439,"Inner",34.43
+"7","Fonadhoo inside",10,"Rep1",108.404855774333,"Inner",48.11
+"8","Fonadhoo inside",10,"Rep2",389.011141794107,"Inner",50.52
+"9","Fonadhoo outside",10,"Rep1",472.522068965517,"Outer",37.8
+"10","Fonadhoo outside",10,"Rep2",188.196330645161,"Outer",29.05
+"11","Fonadhoo outside",15,"Rep1",433.262365591398,"Outer",36.07
+"12","Fonadhoo outside",15,"Rep2",276.191388888889,"Outer",33.29
+"13","Fonagaadhoo outside",10,"Rep1",614.93947335307,"Outer",37.68
+"14","Fonagaadhoo outside",10,"Rep2",428.942168971232,"Outer",48.3
+"15","Fonagaadhoo outside",15,"Rep1",177.3776597408,"Outer",44.7
+"16","Fonagaadhoo outside",15,"Rep2",790.754866955556,"Outer",28.75
+"17","Fushi kandu",10,"Rep1",311.320535125217,"Channel",51.21
+"18","Fushi kandu",10,"Rep2",267.727572771707,"Channel",30.03
+"19","Fushi kandu",15,"Rep1",543.086505643333,"Channel",32.82
+"20","Fushi kandu",15,"Rep2",655.718426753016,"Channel",31.05
+"21","Gaadhoo corner",10,"Rep1",2683.30442666667,"Channel",2.01
+"22","Gaadhoo corner",10,"Rep2",3548.60310266667,"Channel",15.31
+"23","Gaadhoo corner",15,"Rep1",643.038340333333,"Channel",36.01
+"24","Gaadhoo corner",15,"Rep2",200.82936669125,"Channel",40.05
+"25","Gaadhoo inside",5,"Rep1",792.935600805,"Inner",22.27
+"26","Gaadhoo inside",5,"Rep2",687.693229079273,"Inner",19.79
+"27","Gaadhoo inside",10,"Rep1",752.474669628333,"Inner",30.14
+"28","Gaadhoo inside",10,"Rep2",495.896477372742,"Inner",27.47
+"29","Gaadhoo outside",10,"Rep1",839.3488654628,"Outer",9.75
+"30","Gaadhoo outside",10,"Rep2",2036.25011108333,"Outer",12.34
+"31","Gaadhoo outside",15,"Rep1",1123.50535802857,"Outer",9.38
+"32","Gaadhoo outside",15,"Rep2",934.627697232432,"Outer",20.45
+"33","Hassanhaa",5,"Rep1",220.765730616581,"Thila",41.31
+"34","Hassanhaa",5,"Rep2",117.0104844148,"Thila",55.05
+"35","Hassanhaa",10,"Rep1",443.698074464483,"Thila",12.06
+"36","Hassanhaa",10,"Rep2",264.412858434828,"Thila",6.01
+"37","Hithadhoo corner",10,"Rep1",2672.13892829579,"Channel",6.45
+"38","Hithadhoo corner",10,"Rep2",2892.98995525,"Channel",19.11
+"39","Hithadhoo corner",15,"Rep1",389.179798393276,"Channel",21.57
+"40","Hithadhoo corner",15,"Rep2",2845.137404,"Channel",26.83
+"41","Hithadhoo inside",5,"Rep1",526.335268707407,"Inner",13.71
+"42","Hithadhoo inside",5,"Rep2",379.637407451613,"Inner",18.99
+"43","Hithadhoo inside",10,"Rep1",417.951120827333,"Inner",21.34
+"44","Hithadhoo inside",10,"Rep2",206.901518488615,"Inner",20.29
+"45","Hithadhoo west",10,"Rep1",941.152101427895,"Outer",54.43
+"46","Hithadhoo west",10,"Rep2",2581.54386746667,"Outer",55.66
+"47","Hithadhoo west",15,"Rep1",492.75579237,"Outer",20.4
+"48","Hithadhoo west",15,"Rep2",307.609156254545,"Outer",19.68
+"49","Isdhoo muli",10,"Rep1",530.268227726389,"Outer",28.95
+"50","Isdhoo muli",10,"Rep2",692.359795044876,"Outer",22.35
+"51","Isdhoo muli",15,"Rep1",199.360907159492,"Outer",20.71
+"52","Isdhoo muli",15,"Rep2",418.485322232958,"Outer",36.9
+"53","Kuda falhu",5,"Rep1",2077.42105263158,"Thila",11.46
+"54","Kuda falhu",5,"Rep2",1921,"Thila",5.04
+"55","Kuda falhu",10,"Rep1",325.31608405301,"Thila",14.44
+"56","Kuda falhu",10,"Rep2",232.831625992081,"Thila",8.81
+"57","Kurethi outside",10,"Rep1",150.716382978723,"Outer",19.11
+"58","Kurethi outside",10,"Rep2",177.361964285714,"Outer",9.71
+"59","Kurethi outside",15,"Rep1",207.694827586207,"Outer",22.07
+"60","Kurethi outside",15,"Rep2",145.162807017544,"Outer",16.7
+"61","Laamafaruhaa",5,"Rep1",335.165314994286,"Thila",31.45
+"62","Laamafaruhaa",5,"Rep2",434.694395568532,"Thila",22.08
+"63","Laamafaruhaa",10,"Rep1",523.975778046607,"Thila",30.66
+"64","Laamafaruhaa",10,"Rep2",354.751376785367,"Thila",19.86
+"65","Maabaidhoo inside",5,"Rep1",314.468526077952,"Inner",24.84
+"66","Maabaidhoo inside",5,"Rep2",133.166267625,"Inner",31.74
+"67","Maabaidhoo inside",10,"Rep1",678.640854051282,"Inner",24.21
+"68","Maabaidhoo inside",10,"Rep2",134.238075439259,"Inner",33.36
+"69","Maabaidhoo outside",10,"Rep1",177.232611832956,"Outer",22.98
+"70","Maabaidhoo outside",10,"Rep2",336.8416468934,"Outer",23.08
+"71","Maabaidhoo outside",15,"Rep1",411.380107097643,"Outer",23.2
+"72","Maabaidhoo outside",15,"Rep2",282.979930355886,"Outer",13.15
+"73","Maavah corner",10,"Rep1",308.414183327979,"Channel",29.8
+"74","Maavah corner",10,"Rep2",409.811563442415,"Channel",27.44
+"75","Maavah corner",15,"Rep1",355.6252069976,"Channel",27.22
+"76","Maavah corner",15,"Rep2",246.311613781034,"Channel",39.07
+"77","Maavah inside",5,"Rep1",174.656418601579,"Inner",32.18
+"78","Maavah inside",5,"Rep2",87.02587945195,"Inner",29.68
+"79","Maavah inside",10,"Rep1",63.4544174111594,"Inner",41.05
+"80","Maavah inside",10,"Rep2",44.3534282479464,"Inner",58.94
+"81","Maavah outside",10,"Rep1",378.475644444444,"Outer",9.19
+"82","Maavah outside",10,"Rep2",689.645263157895,"Outer",14.66
+"83","Maavah outside",15,"Rep1",489.27,"Outer",14.53
+"84","Maavah outside",15,"Rep2",346.406767676768,"Outer",13.57
+"85","Mundoo kandu",10,"Rep1",301.849355052333,"Channel",33.24
+"86","Mundoo kandu",10,"Rep2",115.358166708986,"Channel",25.37
+"87","Mundoo kandu",15,"Rep1",251.943804722721,"Channel",43.18
+"88","Mundoo kandu",15,"Rep2",192.42371863817,"Channel",25.58
+"89","Olhutholhu inside",5,"Rep1",705.043423323306,"Inner",22.85
+"90","Olhutholhu inside",10,"Rep1",467.479760425366,"Inner",25.98
+"91","Olhuveli corner",10,"Rep1",320.5095698724,"Channel",9.36
+"92","Olhuveli corner",10,"Rep2",358.949405751105,"Channel",16.97
+"93","Olhuveli corner",15,"Rep1",430.160065934375,"Channel",15.47
+"94","Olhuveli corner",15,"Rep2",289.538953752368,"Channel",16.14
+"95","Olhuveli reef",5,"Rep1",693.61995647625,"Inner",32.45
+"96","Olhuveli reef",5,"Rep2",747.840403461389,"Inner",22.67
+"97","Olhuveli reef",10,"Rep1",80.5081675333333,"Inner",34.55
+"98","Olhuveli reef",10,"Rep2",536.943136125357,"Inner",22.65
+"99","Raha Inside",5,"Rep1",311.763639697348,"Inner",35.32
+"100","Raha Inside",5,"Rep2",482.978021629755,"Inner",39.67
+"101","Raha Inside",10,"Rep1",290.884208415409,"Inner",41.6
+"102","Raha Inside",10,"Rep2",361.217475645,"Inner",64.3
+"103","Rahdhashuhaa",10,"Rep1",142.863604157368,"Thila",45.73
+"104","Rahdhashuhaa",10,"Rep2",269.157446271648,"Thila",41.44
+"105","Rahdhashuhaa",15,"Rep1",73.7999169074468,"Thila",40.75
+"106","Rahdhashuhaa",15,"Rep2",83.0349552207813,"Thila",39.88
+"107","Vadinolhu kandu",10,"Rep1",108.234642085556,"Channel",39.07
+"108","Vadinolhu kandu",10,"Rep2",204.66580975,"Channel",34.78
+"109","Vadinolhu kandu",15,"Rep1",115.138884855172,"Channel",11.38
+"110","Vadinolhu kandu",15,"Rep2",116.358516563636,"Channel",13.58

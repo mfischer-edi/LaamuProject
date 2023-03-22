@@ -45,6 +45,10 @@ theme_diss <- function(){
 
 ## Olhutholhu inside ----
 
+# Fish data for this site was added late to the sharepoint,
+# so this data wrangling was used to get fish abundance data
+# from that site in order to combine it with the other data
+
 # Get abundance data for Olhutholhu inside
 OI <- read.csv("data/Olhutholhu_2022.csv", header = T)
 
@@ -294,7 +298,7 @@ biom_coral <- biom_coral %>%
   select(-Reef.type.x) %>% 
   rename(Reef.type = Reef.type.y)
 
-#write.csv(biom_coral, "data/biom_coral.csv")
+write.csv(biom_coral, "data/biom_coral.csv")
 
 # Combine total biomass and coral at rep level
 biom_sum_coral <- left_join(biom_rep_sum, coral_rep, by = c("Site.name","Depth","Rep"))
@@ -311,7 +315,7 @@ eco_biom_coral <- eco_biom_coral %>%
   select(-Reef.type.x) %>% 
   rename(Reef.type = Reef.type.y)
 
-#write.csv(eco_biom_coral, "data/eco_biom_coral.csv")
+write.csv(eco_biom_coral, "data/eco_biom_coral.csv")
 
 # combine com rep and coral
 com_biom_coral <- left_join(com_rep, coral_rep, by = c("Site.name","Depth","Rep"))
@@ -321,7 +325,7 @@ com_biom_coral <- com_biom_coral %>%
   select(-Reef.type.x) %>% 
   rename(Reef.type = Reef.type.y)
 
-#write.csv(com_biom_coral, "data/com_biom_coral.csv")
+write.csv(com_biom_coral, "data/com_biom_coral.csv")
 
 ## 2019 abundance data ----
 
@@ -575,7 +579,7 @@ summary(eco3) # n.s. interaction
           axis.title.x = element_text(margin = margin(t = 15, r = 0, b = 0, l = 0)))
 )
 
-ggsave2(abun.p, filename = "outputs/abun_coral_lm.png", width = 10, height = 7)
+ggsave2(eco.abun, filename = "outputs/eco_abun_lm.png", width = 10, height = 7)
 
 ### COM
 
@@ -602,7 +606,7 @@ summary(com3) # n.s. interaction
           axis.title.x = element_text(margin = margin(t = 15, r = 0, b = 0, l = 0)))
 )
 
-ggsave2(abun.p, filename = "outputs/abun_coral_lm.png", width = 10, height = 7)
+ggsave2(com.abun, filename = "outputs/com_abun_lm.png", width = 10, height = 7)
 
 # Arrange in panel
 library(gridExtra)
@@ -778,4 +782,5 @@ cols <- c("eco"="#b80c09","com"="#0b4f6c")
           axis.title.x = element_text(margin = margin(t = 15, r = 0, b = 0, l = 0)))
 )
 
-ggsave2(eco_com_plot, filename = "outputs/eco_com_plot.png", width = 7, height = 5)
+ggsave2(eco_com_plot, filename = "outputs/eco_com_biom.png", width = 7, height = 5)
+
