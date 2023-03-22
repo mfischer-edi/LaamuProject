@@ -1,0 +1,709 @@
+site_id,site,family,species,count,year,reef_type
+FI,Fonadhoo inside,BUT,AUR,5,2019,inside
+FI,Fonadhoo inside,BUT,FAL,6,2019,inside
+FI,Fonadhoo inside,BUT,LUN,6,2019,inside
+FI,Fonadhoo inside,BUT,TFT,24,2019,inside
+FI,Fonadhoo inside,BUT,TRI,6,2019,inside
+FI,Fonadhoo inside,EMP,AUR,3,2019,inside
+FI,Fonadhoo inside,EMP,MONO,14,2019,inside
+FI,Fonadhoo inside,EMP,OBS,1,2019,inside
+FI,Fonadhoo inside,GRO,EPH,2,2019,inside
+FI,Fonadhoo inside,GRO,ARG,35,2019,inside
+FI,Fonadhoo inside,GRO,FUS,1,2019,inside
+FI,Fonadhoo inside,GRO,LEA,1,2019,inside
+FI,Fonadhoo inside,GRO,LEO,3,2019,inside
+FI,Fonadhoo inside,GRO,LEU,2,2019,inside
+FI,Fonadhoo inside,GRO,MIN,4,2019,inside
+FI,Fonadhoo inside,GRO,ROG,7,2019,inside
+FI,Fonadhoo inside,GRO,SON,2,2019,inside
+FI,Fonadhoo inside,PAR,3COLOR,1,2019,inside
+FI,Fonadhoo inside,PAR,DUSKY,4,2019,inside
+FI,Fonadhoo inside,PAR,GFACE,1,2019,inside
+FI,Fonadhoo inside,PAR,LNOSE,5,2019,inside
+FI,Fonadhoo inside,PAR,SORDID,25,2019,inside
+FI,Fonadhoo inside,SNAP,FUR,3,2019,inside
+FI,Fonadhoo inside,SNAP,GIB,50,2019,inside
+FI,Fonadhoo inside,SNAP,IND,1,2019,inside
+FI,Fonadhoo inside,SNAP,MID,3,2019,inside
+FI,Fonadhoo inside,SNAP,MONOS,12,2019,inside
+FI,Fonadhoo inside,SNAP,RED,2,2019,inside
+FI,Fonadhoo inside,TRIG,STR,11,2019,inside
+FI,Fonadhoo inside,TRIG,SUFC,1,2019,inside
+FO,Fonadhoo outside,BUT,AUR,3,2019,outside
+FO,Fonadhoo outside,BUT,CIT,2,2019,outside
+FO,Fonadhoo outside,BUT,GUT,13,2019,outside
+FO,Fonadhoo outside,BUT,MEY,1,2019,outside
+FO,Fonadhoo outside,BUT,TFT,5,2019,outside
+FO,Fonadhoo outside,BUT,TRI,1,2019,outside
+FO,Fonadhoo outside,BUT,XAN,2,2019,outside
+FO,Fonadhoo outside,EMP,AUR,31,2019,outside
+FO,Fonadhoo outside,EMP,MONO,10,2019,outside
+FO,Fonadhoo outside,GRO,EPH,1,2019,outside
+FO,Fonadhoo outside,GRO,ARG,18,2019,outside
+FO,Fonadhoo outside,GRO,COE ,1,2019,outside
+FO,Fonadhoo outside,GRO,LEA,1,2019,outside
+FO,Fonadhoo outside,GRO,LEU,1,2019,outside
+FO,Fonadhoo outside,GRO,LOU,1,2019,outside
+FO,Fonadhoo outside,GRO,ROGA,3,2019,outside
+FO,Fonadhoo outside,GRO,SON,1,2019,outside
+FO,Fonadhoo outside,PAR,BLTIP,2,2019,outside
+FO,Fonadhoo outside,PAR,ECLIPSE,2,2019,outside
+FO,Fonadhoo outside,PAR,LNOSE,1,2019,outside
+FO,Fonadhoo outside,PAR,SCABER,7,2019,outside
+FO,Fonadhoo outside,PAR,SORDID,30,2019,outside
+FO,Fonadhoo outside,SNAP,BLACK,5,2019,outside
+FO,Fonadhoo outside,SNAP,CHECK,2,2019,outside
+FO,Fonadhoo outside,SNAP,FUR,2,2019,outside
+FO,Fonadhoo outside,SNAP,GIB,64,2019,outside
+FO,Fonadhoo outside,SNAP,KAS,22,2019,outside
+FO,Fonadhoo outside,SNAP,MONO,8,2019,outside
+FO,Fonadhoo outside,SNAP,RED,8,2019,outside
+FO,Fonadhoo outside,TRIG,IND,4,2019,outside
+FO,Fonadhoo outside,TRIG,STR,5,2019,outside
+FK,Fushi kandu,BUT,AUR,7,2019,channel
+FK,Fushi kandu,BUT,COL,132,2019,channel
+FK,Fushi kandu,BUT,GUT,19,2019,channel
+FK,Fushi kandu,BUT,KLE,23,2019,channel
+FK,Fushi kandu,BUT,LN,6,2019,channel
+FK,Fushi kandu,BUT,LUN,22,2019,channel
+FK,Fushi kandu,BUT,MEY,15,2019,channel
+FK,Fushi kandu,BUT,PHA,3,2019,channel
+FK,Fushi kandu,BUT,PYR,2,2019,channel
+FK,Fushi kandu,BUT,TFT,8,2019,channel
+FK,Fushi kandu,BUT,TRI,2,2019,channel
+FK,Fushi kandu,BUT,XAN,3,2019,channel
+FK,Fushi kandu,EMP,MONO,1,2019,channel
+FK,Fushi kandu,EMP,OLI,5,2019,channel
+FK,Fushi kandu,GRO,EPH,3,2019,channel
+FK,Fushi kandu,GRO,ALBO,7,2019,channel
+FK,Fushi kandu,GRO,ARE,6,2019,channel
+FK,Fushi kandu,GRO,ARG,43,2019,channel
+FK,Fushi kandu,GRO,COE,10,2019,channel
+FK,Fushi kandu,GRO,LEA,6,2019,channel
+FK,Fushi kandu,GRO,LEO,4,2019,channel
+FK,Fushi kandu,GRO,LOU,1,2019,channel
+FK,Fushi kandu,GRO,MAC,3,2019,channel
+FK,Fushi kandu,GRO,MER,2,2019,channel
+FK,Fushi kandu,GRO,MIN,24,2019,channel
+FK,Fushi kandu,GRO,POL,4,2019,channel
+FK,Fushi kandu,GRO,ROG,15,2019,channel
+FK,Fushi kandu,GRO,SON,52,2019,channel
+FK,Fushi kandu,GRO,SPIL,20,2019,channel
+FK,Fushi kandu,PAR,3COLOR,3,2019,channel
+FK,Fushi kandu,PAR,BIC,2,2019,channel
+FK,Fushi kandu,PAR,DUSKY,1,2019,channel
+FK,Fushi kandu,PAR,EMBER,4,2019,channel
+FK,Fushi kandu,PAR,FESTIVE,4,2019,channel
+FK,Fushi kandu,PAR,FRENATUS,2,2019,channel
+FK,Fushi kandu,PAR,GSNOUT,3,2019,channel
+FK,Fushi kandu,PAR,SCABER,2,2019,channel
+FK,Fushi kandu,PAR,SHEEPHEAD,2,2019,channel
+FK,Fushi kandu,PAR,SORDID,53,2019,channel
+FK,Fushi kandu,SNAP,BLACK,11,2019,channel
+FK,Fushi kandu,SNAP,FUL,2,2019,channel
+FK,Fushi kandu,SNAP,FUR,14,2019,channel
+FK,Fushi kandu,SNAP,GIB,21,2019,channel
+FK,Fushi kandu,SNAP,KAS,48,2019,channel
+FK,Fushi kandu,SNAP,MID,1,2019,channel
+FK,Fushi kandu,SNAP,MONOS,23,2019,channel
+FK,Fushi kandu,SNAP,RED,17,2019,channel
+FK,Fushi kandu,TRIG,CLN,3,2019,channel
+FK,Fushi kandu,TRIG,IND,37,2019,channel
+FK,Fushi kandu,TRIG,OCN,2,2019,channel
+FK,Fushi kandu,TRIG,STR,32,2019,channel
+FK,Fushi kandu,TRIG,SUFB,5,2019,channel
+FK,Fushi kandu,TRIG,SUFC,1,2019,channel
+FK,Fushi kandu,TRIG,TIT,1,2019,channel
+FK,Fushi kandu,TRIG,UNKNOWN,5,2019,channel
+GI,Gaadhoo inside,BUT,AUR,3,2019,inside
+GI,Gaadhoo inside,BUT,CIT,2,2019,inside
+GI,Gaadhoo inside,BUT,GUT,3,2019,inside
+GI,Gaadhoo inside,BUT,MEL,1,2019,inside
+GI,Gaadhoo inside,BUT,MEY,3,2019,inside
+GI,Gaadhoo inside,BUT,PHA,4,2019,inside
+GI,Gaadhoo inside,BUT,PYR,3,2019,inside
+GI,Gaadhoo inside,BUT,TFT,18,2019,inside
+GI,Gaadhoo inside,BUT,TRI,8,2019,inside
+GI,Gaadhoo inside,BUT,XAN,4,2019,inside
+GI,Gaadhoo inside,EMP,MONO,7,2019,inside
+GI,Gaadhoo inside,GRO,EPH,1,2019,inside
+GI,Gaadhoo inside,GRO,ARG,23,2019,inside
+GI,Gaadhoo inside,GRO,FAS,1,2019,inside
+GI,Gaadhoo inside,GRO,LEO,1,2019,inside
+GI,Gaadhoo inside,GRO,LEU,4,2019,inside
+GI,Gaadhoo inside,GRO,MAC,1,2019,inside
+GI,Gaadhoo inside,GRO,ROG,3,2019,inside
+GI,Gaadhoo inside,GRO,SPIL,1,2019,inside
+GI,Gaadhoo inside,PAR,BIC,3,2019,inside
+GI,Gaadhoo inside,PAR,DUSKY,7,2019,inside
+GI,Gaadhoo inside,PAR,FRENATUS,1,2019,inside
+GI,Gaadhoo inside,PAR,LN,3,2019,inside
+GI,Gaadhoo inside,PAR,ROSY,1,2019,inside
+GI,Gaadhoo inside,PAR,SCABER,4,2019,inside
+GI,Gaadhoo inside,PAR,SHEEPHEAD,17,2019,inside
+GI,Gaadhoo inside,PAR,SORDID,8,2019,inside
+GI,Gaadhoo inside,SNAP,CHEK,1,2019,inside
+GI,Gaadhoo inside,SNAP,FUR,3,2019,inside
+GI,Gaadhoo inside,TRIG,IND,15,2019,inside
+GI,Gaadhoo inside,TRIG,STR,13,2019,inside
+GI,Gaadhoo inside,TRIG,SUFB,1,2019,inside
+GO,Gaadhoo outside,BUT,AUR,4,2019,outside
+GO,Gaadhoo outside,BUT,CHEV,1,2019,outside
+GO,Gaadhoo outside,BUT,CIT,6,2019,outside
+GO,Gaadhoo outside,BUT,COL,4,2019,outside
+GO,Gaadhoo outside,BUT,FAL,1,2019,outside
+GO,Gaadhoo outside,BUT,GUT,7,2019,outside
+GO,Gaadhoo outside,BUT,KLE,21,2019,outside
+GO,Gaadhoo outside,BUT,LN,1,2019,outside
+GO,Gaadhoo outside,BUT,MEL,1,2019,outside
+GO,Gaadhoo outside,BUT,MEY,3,2019,outside
+GO,Gaadhoo outside,BUT,TRI,1,2019,outside
+GO,Gaadhoo outside,EMP,MONO,18,2019,outside
+GO,Gaadhoo outside,GRO,ARG,11,2019,outside
+GO,Gaadhoo outside,GRO,LEA,1,2019,outside
+GO,Gaadhoo outside,GRO,LOU,1,2019,outside
+GO,Gaadhoo outside,GRO,MAC,2,2019,outside
+GO,Gaadhoo outside,GRO,MIN,10,2019,outside
+GO,Gaadhoo outside,GRO,POL,1,2019,outside
+GO,Gaadhoo outside,GRO,SEX,2,2019,outside
+GO,Gaadhoo outside,GRO,SPIL,1,2019,outside
+GO,Gaadhoo outside,PAR,3COLOR,5,2019,outside
+GO,Gaadhoo outside,PAR,BARTAIL,2,2019,outside
+GO,Gaadhoo outside,PAR,EMBER,3,2019,outside
+GO,Gaadhoo outside,PAR,FRENATUS,6,2019,outside
+GO,Gaadhoo outside,PAR,LNOSE,6,2019,outside
+GO,Gaadhoo outside,SNAP,FUR,1,2019,outside
+GO,Gaadhoo outside,SNAP,KAS,3,2019,outside
+GO,Gaadhoo outside,SNAP,MID,7,2019,outside
+GO,Gaadhoo outside,SNAP,MONO,7,2019,outside
+GO,Gaadhoo outside,SNAP,RED,2,2019,outside
+GO,Gaadhoo outside,TRIG,CLN,2,2019,outside
+GO,Gaadhoo outside,TRIG,IND,22,2019,outside
+GO,Gaadhoo outside,TRIG,NIG,1,2019,outside
+GO,Gaadhoo outside,TRIG,STR,9,2019,outside
+GO,Gaadhoo outside,TRIG,SUFB,8,2019,outside
+GO,Gaadhoo outside,TRIG,SUFF,2,2019,outside
+HC,Hithadhoo corner,BUT,CIT,8,2019,channel
+HC,Hithadhoo corner,BUT,DECU,2,2019,channel
+HC,Hithadhoo corner,BUT,KLE,8,2019,channel
+HC,Hithadhoo corner,BUT,TFT,8,2019,channel
+HC,Hithadhoo corner,BUT,XAN,1,2019,channel
+HC,Hithadhoo corner,GRO,ARG,6,2019,channel
+HC,Hithadhoo corner,GRO,COE,1,2019,channel
+HC,Hithadhoo corner,GRO,LOU,2,2019,channel
+HC,Hithadhoo corner,GRO,MAC,1,2019,channel
+HC,Hithadhoo corner,GRO,ROG,3,2019,channel
+HC,Hithadhoo corner,PAR,BARTAIL,1,2019,channel
+HC,Hithadhoo corner,PAR,BIC,1,2019,channel
+HC,Hithadhoo corner,PAR,BLUEBAR,1,2019,channel
+HC,Hithadhoo corner,PAR,DUSKY,1,2019,channel
+HC,Hithadhoo corner,PAR,ECLIPSE,5,2019,channel
+HC,Hithadhoo corner,PAR,EMBER,5,2019,channel
+HC,Hithadhoo corner,PAR,GFACE,4,2019,channel
+HC,Hithadhoo corner,PAR,SCABER,5,2019,channel
+HC,Hithadhoo corner,PAR,SHEEPHEAD,1,2019,channel
+HC,Hithadhoo corner,PAR,SORDID,17,2019,channel
+HC,Hithadhoo corner,SNAP,BLACK,1,2019,channel
+HC,Hithadhoo corner,SNAP,MID,1,2019,channel
+HC,Hithadhoo corner,TRIG,CLN,1,2019,channel
+HC,Hithadhoo corner,TRIG,FLAV,17,2019,channel
+HC,Hithadhoo corner,TRIG,IND,7,2019,channel
+HC,Hithadhoo corner,TRIG,RECT,2,2019,channel
+HC,Hithadhoo corner,TRIG,STR,2,2019,channel
+HC,Hithadhoo corner,TRIG,SUFC,2,2019,channel
+HI,Hithadhoo inside,BUT,AUR,3,2019,inside
+HI,Hithadhoo inside,BUT,BEN,1,2019,inside
+HI,Hithadhoo inside,BUT,CIT,17,2019,inside
+HI,Hithadhoo inside,BUT,COL,71,2019,inside
+HI,Hithadhoo inside,BUT,GUT,42,2019,inside
+HI,Hithadhoo inside,BUT,KLE,4,2019,inside
+HI,Hithadhoo inside,BUT,LN,3,2019,inside
+HI,Hithadhoo inside,BUT,LUN,7,2019,inside
+HI,Hithadhoo inside,BUT,MASK,2,2019,inside
+HI,Hithadhoo inside,BUT,MEY,8,2019,inside
+HI,Hithadhoo inside,BUT,PHA,5,2019,inside
+HI,Hithadhoo inside,BUT,TFT,5,2019,inside
+HI,Hithadhoo inside,BUT,TRI,4,2019,inside
+HI,Hithadhoo inside,BUT,VLN,1,2019,inside
+HI,Hithadhoo inside,BUT,XAN,6,2019,inside
+HI,Hithadhoo inside,EMP,HAR,3,2019,inside
+HI,Hithadhoo inside,GRO,EPH,30,2019,inside
+HI,Hithadhoo inside,GRO,ARE,1,2019,inside
+HI,Hithadhoo inside,GRO,ARG,11,2019,inside
+HI,Hithadhoo inside,GRO,COE,3,2019,inside
+HI,Hithadhoo inside,GRO,FUS,1,2019,inside
+HI,Hithadhoo inside,GRO,LEO,3,2019,inside
+HI,Hithadhoo inside,GRO,LEU,2,2019,inside
+HI,Hithadhoo inside,GRO,MIN,1,2019,inside
+HI,Hithadhoo inside,GRO,POL,1,2019,inside
+HI,Hithadhoo inside,GRO,ROGA,3,2019,inside
+HI,Hithadhoo inside,GRO,SON,2,2019,inside
+HI,Hithadhoo inside,PAR,BARTAIL,2,2019,inside
+HI,Hithadhoo inside,PAR,BIC,4,2019,inside
+HI,Hithadhoo inside,PAR,DUSKY,4,2019,inside
+HI,Hithadhoo inside,PAR,ECLIPSE,1,2019,inside
+HI,Hithadhoo inside,PAR,FESTIVE,1,2019,inside
+HI,Hithadhoo inside,PAR,LNOSE,1,2019,inside
+HI,Hithadhoo inside,PAR,SHEEPHEAD,4,2019,inside
+HI,Hithadhoo inside,SNAP,FUL,6,2019,inside
+HI,Hithadhoo inside,SNAP,FUR,2,2019,inside
+HI,Hithadhoo inside,SNAP,GIB,4,2019,inside
+HI,Hithadhoo inside,SNAP,KAS,40,2019,inside
+HI,Hithadhoo inside,SNAP,MAN,23,2019,inside
+HI,Hithadhoo inside,SNAP,MID,2,2019,inside
+HI,Hithadhoo inside,SNAP,MONOS,11,2019,inside
+HI,Hithadhoo inside,TRIG,CLN,5,2019,inside
+HI,Hithadhoo inside,TRIG,FLAV,18,2019,inside
+HI,Hithadhoo inside,TRIG,IND,31,2019,inside
+HI,Hithadhoo inside,TRIG,NIG,5,2019,inside
+HI,Hithadhoo inside,TRIG,RECT,1,2019,inside
+HI,Hithadhoo inside,TRIG,STR,16,2019,inside
+HI,Hithadhoo inside,TRIG,SUFB,3,2019,inside
+HI,Hithadhoo inside,TRIG,SUFC,1,2019,inside
+HI,Hithadhoo inside,TRIG,TIT,4,2019,inside
+HW,Hithadhoo west,BUT,AUR,1,2019,channel
+HW,Hithadhoo west,BUT,CIT,11,2019,channel
+HW,Hithadhoo west,BUT,COL,9,2019,channel
+HW,Hithadhoo west,BUT,FAL,4,2019,channel
+HW,Hithadhoo west,BUT,GUT,18,2019,channel
+HW,Hithadhoo west,BUT,KLE,3,2019,channel
+HW,Hithadhoo west,BUT,LUN,18,2019,channel
+HW,Hithadhoo west,BUT,MEL,2,2019,channel
+HW,Hithadhoo west,BUT,MEY,10,2019,channel
+HW,Hithadhoo west,BUT,OXY,2,2019,channel
+HW,Hithadhoo west,BUT,PYR,1,2019,channel
+HW,Hithadhoo west,BUT,TFT,4,2019,channel
+HW,Hithadhoo west,BUT,TRI,2,2019,channel
+HW,Hithadhoo west,EMP,HAR,1,2019,channel
+HW,Hithadhoo west,EMP,MONO,3,2019,channel
+HW,Hithadhoo west,GRO,ARE,4,2019,channel
+HW,Hithadhoo west,GRO,ARG,7,2019,channel
+HW,Hithadhoo west,GRO,MIN,1,2019,channel
+HW,Hithadhoo west,PAR,BARTAIL,1,2019,channel
+HW,Hithadhoo west,PAR,BIC,5,2019,channel
+HW,Hithadhoo west,PAR,DUSKY,6,2019,channel
+HW,Hithadhoo west,PAR,FRENATUS,7,2019,channel
+HW,Hithadhoo west,PAR,GFACE,1,2019,channel
+HW,Hithadhoo west,PAR,ROSY,1,2019,channel
+HW,Hithadhoo west,PAR,SCABER,1,2019,channel
+HW,Hithadhoo west,PAR,SHEEPHEAD,7,2019,channel
+HW,Hithadhoo west,PAR,SORDID,17,2019,channel
+HW,Hithadhoo west,SNAP,RED,2,2019,channel
+HW,Hithadhoo west,SNAP,BLACK,14,2019,channel
+HW,Hithadhoo west,SNAP,CHEK,1,2019,channel
+HW,Hithadhoo west,SNAP,FUR,4,2019,channel
+HW,Hithadhoo west,SNAP,GIB,1,2019,channel
+HW,Hithadhoo west,SNAP,IND,34,2019,channel
+HW,Hithadhoo west,SNAP,MID,9,2019,channel
+HW,Hithadhoo west,SNAP,MONOS,48,2019,channel
+HW,Hithadhoo west,SNAP,VIR,2,2019,channel
+HW,Hithadhoo west,TRIG,CLN,2,2019,channel
+HW,Hithadhoo west,TRIG,STR,5,2019,channel
+HW,Hithadhoo west,TRIG,SUFB,7,2019,channel
+HW,Hithadhoo west,TRIG,TIT,2,2019,channel
+HW,Hithadhoo west,TRIG,WHITE,4,2019,channel
+OI,Olhutholhu inside,BUT,AUR,3,2019,inside
+OI,Olhutholhu inside,BUT,FAL,7,2019,inside
+OI,Olhutholhu inside,BUT,LN,1,2019,inside
+OI,Olhutholhu inside,BUT,LUN,5,2019,inside
+OI,Olhutholhu inside,BUT,TFT,29,2019,inside
+OI,Olhutholhu inside,BUT,TRI,11,2019,inside
+OI,Olhutholhu inside,BUT,XAN,5,2019,inside
+OI,Olhutholhu inside,EMP,MONO,8,2019,inside
+OI,Olhutholhu inside,EMP,OBS,1,2019,inside
+OI,Olhutholhu inside,GRO,EPH,2,2019,inside
+OI,Olhutholhu inside,GRO,ARE,2,2019,inside
+OI,Olhutholhu inside,GRO,ARG,17,2019,inside
+OI,Olhutholhu inside,GRO,LEA,1,2019,inside
+OI,Olhutholhu inside,GRO,LEU,2,2019,inside
+OI,Olhutholhu inside,GRO,MIN,2,2019,inside
+OI,Olhutholhu inside,GRO,ROGA,9,2019,inside
+OI,Olhutholhu inside,PAR,EMBER,3,2019,inside
+OI,Olhutholhu inside,PAR,SHEEPHEAD,2,2019,inside
+OI,Olhutholhu inside,SNAP,GIB,1,2019,inside
+OI,Olhutholhu inside,SNAP,MONOS,4,2019,inside
+OI,Olhutholhu inside,SNAP,RED,3,2019,inside
+OI,Olhutholhu inside,TRIG,STR,26,2019,inside
+KO,Kurethi outside,BUT,AUR,5,2019,outside
+KO,Kurethi outside,BUT,CHEV,1,2019,outside
+KO,Kurethi outside,BUT,CIT,2,2019,outside
+KO,Kurethi outside,BUT,COL,2,2019,outside
+KO,Kurethi outside,BUT,GUT,13,2019,outside
+KO,Kurethi outside,BUT,KLE,5,2019,outside
+KO,Kurethi outside,BUT,MEY,5,2019,outside
+KO,Kurethi outside,BUT,TFT,15,2019,outside
+KO,Kurethi outside,BUT,XAN,1,2019,outside
+KO,Kurethi outside,EMP,AUR,23,2019,outside
+KO,Kurethi outside,EMP,ERY,2,2019,outside
+KO,Kurethi outside,EMP,MONO,113,2019,outside
+KO,Kurethi outside,EMP,OLI,6,2019,outside
+KO,Kurethi outside,GRO,ARG,20,2019,outside
+KO,Kurethi outside,GRO,FUS,1,2019,outside
+KO,Kurethi outside,GRO,LEA,2,2019,outside
+KO,Kurethi outside,GRO,LOU,1,2019,outside
+KO,Kurethi outside,GRO,MAC,2,2019,outside
+KO,Kurethi outside,GRO,MEL,1,2019,outside
+KO,Kurethi outside,GRO,MER,2,2019,outside
+KO,Kurethi outside,GRO,ROG,1,2019,outside
+KO,Kurethi outside,GRO,SPIL,4,2019,outside
+KO,Kurethi outside,PAR,BIC,2,2019,outside
+KO,Kurethi outside,PAR,BLUEBAR,8,2019,outside
+KO,Kurethi outside,PAR,DUSKY,3,2019,outside
+KO,Kurethi outside,PAR,FRENATUS,1,2019,outside
+KO,Kurethi outside,PAR,GSNOUT,2,2019,outside
+KO,Kurethi outside,PAR,LNOSE,5,2019,outside
+KO,Kurethi outside,PAR,SCABER,2,2019,outside
+KO,Kurethi outside,PAR,SHEEPHEAD,7,2019,outside
+KO,Kurethi outside,PAR,SORDID,22,2019,outside
+KO,Kurethi outside,SNAP,BLACK,5,2019,outside
+KO,Kurethi outside,SNAP,FUL,4,2019,outside
+KO,Kurethi outside,SNAP,FUR,6,2019,outside
+KO,Kurethi outside,SNAP,GIB,11,2019,outside
+KO,Kurethi outside,SNAP,KAS,10,2019,outside
+KO,Kurethi outside,SNAP,MID,2,2019,outside
+KO,Kurethi outside,SNAP,MONOS,25,2019,outside
+KO,Kurethi outside,SNAP,RED,25,2019,outside
+KO,Kurethi outside,TRIG,CLN,3,2019,outside
+KO,Kurethi outside,TRIG,IND,24,2019,outside
+KO,Kurethi outside,TRIG,STR,25,2019,outside
+KO,Kurethi outside,TRIG,SUFB,21,2019,outside
+KO,Kurethi outside,TRIG,TIT,2,2019,outside
+LF,Laamafaruhaa,BUT,AUR,1,2019,thila
+LF,Laamafaruhaa,BUT,COL,2,2019,thila
+LF,Laamafaruhaa,BUT,LN,26,2019,thila
+LF,Laamafaruhaa,BUT,LUN,5,2019,thila
+LF,Laamafaruhaa,BUT,MEY,1,2019,thila
+LF,Laamafaruhaa,BUT,OXY,2,2019,thila
+LF,Laamafaruhaa,BUT,PHA,3,2019,thila
+LF,Laamafaruhaa,BUT,PYR,5,2019,thila
+LF,Laamafaruhaa,BUT,TFT,3,2019,thila
+LF,Laamafaruhaa,BUT,TRI,7,2019,thila
+LF,Laamafaruhaa,BUT,VLN,3,2019,thila
+LF,Laamafaruhaa,EMP,ERY,1,2019,thila
+LF,Laamafaruhaa,EMP,MONO,12,2019,thila
+LF,Laamafaruhaa,GRO,ARE,2,2019,thila
+LF,Laamafaruhaa,GRO,ARG,9,2019,thila
+LF,Laamafaruhaa,GRO,LEA,2,2019,thila
+LF,Laamafaruhaa,GRO,LEO,3,2019,thila
+LF,Laamafaruhaa,GRO,LEU,9,2019,thila
+LF,Laamafaruhaa,GRO,LOU,1,2019,thila
+LF,Laamafaruhaa,GRO,MIN,2,2019,thila
+LF,Laamafaruhaa,GRO,ROG,21,2019,thila
+LF,Laamafaruhaa,PAR,BIC,3,2019,thila
+LF,Laamafaruhaa,PAR,BLUEBAR,2,2019,thila
+LF,Laamafaruhaa,PAR,DUSKY,1,2019,thila
+LF,Laamafaruhaa,PAR,EMBER,1,2019,thila
+LF,Laamafaruhaa,PAR,SORDID,1,2019,thila
+LF,Laamafaruhaa,SNAP,BLACK,6,2019,thila
+LF,Laamafaruhaa,SNAP,FUL,1,2019,thila
+LF,Laamafaruhaa,SNAP,FUR,4,2019,thila
+LF,Laamafaruhaa,SNAP,IND,6,2019,thila
+LF,Laamafaruhaa,SNAP,MID,1,2019,thila
+LF,Laamafaruhaa,SNAP,MONOS,1,2019,thila
+LF,Laamafaruhaa,SNAP,RED,1,2019,thila
+LF,Laamafaruhaa,SNAP,UNKNOWN,1,2019,thila
+LF,Laamafaruhaa,TRIG,STR,36,2019,thila
+LF,Laamafaruhaa,TRIG,SUFB,3,2019,thila
+MBI,Maabaidhoo inside,BUT,AUR,5,2019,inside
+MBI,Maabaidhoo inside,BUT,BEN,1,2019,inside
+MBI,Maabaidhoo inside,BUT,COL,2,2019,inside
+MBI,Maabaidhoo inside,BUT,FAL,2,2019,inside
+MBI,Maabaidhoo inside,BUT,GUT,1,2019,inside
+MBI,Maabaidhoo inside,BUT,LN,3,2019,inside
+MBI,Maabaidhoo inside,BUT,LUN,18,2019,inside
+MBI,Maabaidhoo inside,BUT,MEY,1,2019,inside
+MBI,Maabaidhoo inside,BUT,PHA,2,2019,inside
+MBI,Maabaidhoo inside,BUT,PYR,2,2019,inside
+MBI,Maabaidhoo inside,BUT,TFT,13,2019,inside
+MBI,Maabaidhoo inside,BUT,TRI,9,2019,inside
+MBI,Maabaidhoo inside,BUT,XAN,6,2019,inside
+MBI,Maabaidhoo inside,EMP,MONO,49,2019,inside
+MBI,Maabaidhoo inside,GRO,ARG,14,2019,inside
+MBI,Maabaidhoo inside,GRO,COE,1,2019,inside
+MBI,Maabaidhoo inside,GRO,LEA,1,2019,inside
+MBI,Maabaidhoo inside,GRO,LEO,4,2019,inside
+MBI,Maabaidhoo inside,GRO,LEU,3,2019,inside
+MBI,Maabaidhoo inside,GRO,MIN,4,2019,inside
+MBI,Maabaidhoo inside,GRO,ROG,5,2019,inside
+MBI,Maabaidhoo inside,PAR,BIC,2,2019,inside
+MBI,Maabaidhoo inside,PAR,DUSKY,10,2019,inside
+MBI,Maabaidhoo inside,PAR,GFACE,1,2019,inside
+MBI,Maabaidhoo inside,PAR,SHEEPHEAD,1,2019,inside
+MBI,Maabaidhoo inside,PAR,SORDID,10,2019,inside
+MBI,Maabaidhoo inside,SNAP,FUR,2,2019,inside
+MBI,Maabaidhoo inside,SNAP,KAS,15,2019,inside
+MBI,Maabaidhoo inside,SNAP,MID,1,2019,inside
+MBI,Maabaidhoo inside,SNAP,RED,1,2019,inside
+MBI,Maabaidhoo inside,SNAP,UNKNOWN,2,2019,inside
+MBI,Maabaidhoo inside,TRIG,FLAV,5,2019,inside
+MBI,Maabaidhoo inside,TRIG,IND,34,2019,inside
+MBI,Maabaidhoo inside,TRIG,STR,14,2019,inside
+MBI,Maabaidhoo inside,TRIG,SUFB,5,2019,inside
+MBI,Maabaidhoo inside,TRIG,TIT,2,2019,inside
+MBO,Maabaidhoo outside,BUT,AUR,2,2019,outside
+MBO,Maabaidhoo outside,BUT,COL,2,2019,outside
+MBO,Maabaidhoo outside,BUT,GUT,8,2019,outside
+MBO,Maabaidhoo outside,BUT,KLE,2,2019,outside
+MBO,Maabaidhoo outside,BUT,MEY,4,2019,outside
+MBO,Maabaidhoo outside,BUT,PHA,1,2019,outside
+MBO,Maabaidhoo outside,BUT,TFT,5,2019,outside
+MBO,Maabaidhoo outside,BUT,XAN,2,2019,outside
+MBO,Maabaidhoo outside,EMP,MONO,3,2019,outside
+MBO,Maabaidhoo outside,GRO,ARG,14,2019,outside
+MBO,Maabaidhoo outside,GRO,BOE,1,2019,outside
+MBO,Maabaidhoo outside,GRO,COE,2,2019,outside
+MBO,Maabaidhoo outside,GRO,FAS,1,2019,outside
+MBO,Maabaidhoo outside,GRO,LEO,2,2019,outside
+MBO,Maabaidhoo outside,GRO,LEU,5,2019,outside
+MBO,Maabaidhoo outside,GRO,MAC,2,2019,outside
+MBO,Maabaidhoo outside,GRO,MEL,4,2019,outside
+MBO,Maabaidhoo outside,GRO,MER,1,2019,outside
+MBO,Maabaidhoo outside,GRO,ROG,3,2019,outside
+MBO,Maabaidhoo outside,GRO,SON,1,2019,outside
+MBO,Maabaidhoo outside,GRO,SPIL,2,2019,outside
+MBO,Maabaidhoo outside,PAR,3COLOR,7,2019,outside
+MBO,Maabaidhoo outside,PAR,BARTAIL,4,2019,outside
+MBO,Maabaidhoo outside,PAR,BIC,1,2019,outside
+MBO,Maabaidhoo outside,PAR,DUSKY,3,2019,outside
+MBO,Maabaidhoo outside,PAR,GFACE,2,2019,outside
+MBO,Maabaidhoo outside,PAR,GSNOUT,5,2019,outside
+MBO,Maabaidhoo outside,PAR,ROSY,1,2019,outside
+MBO,Maabaidhoo outside,PAR,SHEEPHEAD,1,2019,outside
+MBO,Maabaidhoo outside,PAR,SORDID,78,2019,outside
+MBO,Maabaidhoo outside,SNAP,FUR,1,2019,outside
+MBO,Maabaidhoo outside,SNAP,KAS,164,2019,outside
+MBO,Maabaidhoo outside,TRIG,CLN,1,2019,outside
+MBO,Maabaidhoo outside,TRIG,IND,29,2019,outside
+MBO,Maabaidhoo outside,TRIG,STR,30,2019,outside
+MBO,Maabaidhoo outside,TRIG,WHITE,4,2019,outside
+MC,Maavah corner,BUT,AUR,4,2019,channel
+MC,Maavah corner,BUT,CHEV,2,2019,channel
+MC,Maavah corner,BUT,COL,2,2019,channel
+MC,Maavah corner,BUT,FAL,2,2019,channel
+MC,Maavah corner,BUT,GUT,30,2019,channel
+MC,Maavah corner,BUT,KLE,20,2019,channel
+MC,Maavah corner,BUT,LN,5,2019,channel
+MC,Maavah corner,BUT,LUN,8,2019,channel
+MC,Maavah corner,BUT,MEY,7,2019,channel
+MC,Maavah corner,BUT,PYR,28,2019,channel
+MC,Maavah corner,BUT,TRI,5,2019,channel
+MC,Maavah corner,EMP,MONO,4,2019,channel
+MC,Maavah corner,GRO,ALBO,6,2019,channel
+MC,Maavah corner,GRO,ARG,19,2019,channel
+MC,Maavah corner,GRO,COE,1,2019,channel
+MC,Maavah corner,GRO,FUS,1,2019,channel
+MC,Maavah corner,GRO,LEO,3,2019,channel
+MC,Maavah corner,GRO,LEU,2,2019,channel
+MC,Maavah corner,GRO,MIN,25,2019,channel
+MC,Maavah corner,GRO,ROG,3,2019,channel
+MC,Maavah corner,GRO,SPIL,3,2019,channel
+MC,Maavah corner,PAR,BARTAIL,4,2019,channel
+MC,Maavah corner,PAR,BIC,11,2019,channel
+MC,Maavah corner,PAR,BLUEBAR,5,2019,channel
+MC,Maavah corner,PAR,DUSKY,2,2019,channel
+MC,Maavah corner,PAR,FRENATUS,1,2019,channel
+MC,Maavah corner,PAR,LNOSE,6,2019,channel
+MC,Maavah corner,PAR,ROSY,2,2019,channel
+MC,Maavah corner,PAR,SHEEPHEAD,8,2019,channel
+MC,Maavah corner,PAR,SORDID,10,2019,channel
+MC,Maavah corner,SNAP,BLACK,2,2019,channel
+MC,Maavah corner,SNAP,FUR,2,2019,channel
+MC,Maavah corner,SNAP,MID,4,2019,channel
+MC,Maavah corner,SNAP,MONOS,4,2019,channel
+MC,Maavah corner,SL,GIB,7,2019,channel
+MC,Maavah corner,TRIG,CLN,2,2019,channel
+MC,Maavah corner,TRIG,IND,40,2019,channel
+MC,Maavah corner,TRIG,STR,13,2019,channel
+MC,Maavah corner,TRIG,SUFB,23,2019,channel
+MC,Maavah corner,TRIG,SUFC,1,2019,channel
+MC,Maavah corner,TRIG,TIT,1,2019,channel
+MI,Maavah inside,BUT,AUR,1,2019,inside
+MI,Maavah inside,BUT,LN,1,2019,inside
+MI,Maavah inside,BUT,TFT,5,2019,inside
+MI,Maavah inside,BUT,TRI,4,2019,inside
+MI,Maavah inside,EMP,LMIC,1,2019,inside
+MI,Maavah inside,EMP,MONO,20,2019,inside
+MI,Maavah inside,EMP,OLI,1,2019,inside
+MI,Maavah inside,GRO,EPH,1,2019,inside
+MI,Maavah inside,GRO,ARG,11,2019,inside
+MI,Maavah inside,GRO,LEA,1,2019,inside
+MI,Maavah inside,GRO,LEU,2,2019,inside
+MI,Maavah inside,GRO,ROG,11,2019,inside
+MI,Maavah inside,GRO,SPIL,2,2019,inside
+MI,Maavah inside,PAR,3COLOR,1,2019,inside
+MI,Maavah inside,PAR,BIC,1,2019,inside
+MI,Maavah inside,PAR,DUSKY,33,2019,inside
+MI,Maavah inside,PAR,ECLIPSE,1,2019,inside
+MI,Maavah inside,PAR,LNOSE,5,2019,inside
+MI,Maavah inside,PAR,SCABER,14,2019,inside
+MI,Maavah inside,PAR,SORDID,40,2019,inside
+MI,Maavah inside,SNAP,FUR,2,2019,inside
+MI,Maavah inside,SNAP,GIB,10,2019,inside
+MI,Maavah inside,SNAP,MONOS,35,2019,inside
+MI,Maavah inside,TRIG,STR,8,2019,inside
+MO,Maavah outside,BUT,AUR,3,2019,outside
+MO,Maavah outside,BUT,CIT,16,2019,outside
+MO,Maavah outside,BUT,COL,6,2019,outside
+MO,Maavah outside,BUT,FAL,1,2019,outside
+MO,Maavah outside,BUT,GUT,19,2019,outside
+MO,Maavah outside,BUT,KLE,19,2019,outside
+MO,Maavah outside,BUT,LUN,1,2019,outside
+MO,Maavah outside,BUT,MEY,10,2019,outside
+MO,Maavah outside,BUT,PHA,2,2019,outside
+MO,Maavah outside,BUT,TFT,3,2019,outside
+MO,Maavah outside,BUT,TRI,1,2019,outside
+MO,Maavah outside,EMP,MONO,8,2019,outside
+MO,Maavah outside,GRO,ARE,5,2019,outside
+MO,Maavah outside,GRO,ARG,19,2019,outside
+MO,Maavah outside,GRO,LEA,3,2019,outside
+MO,Maavah outside,GRO,LEO,3,2019,outside
+MO,Maavah outside,GRO,MAC,2,2019,outside
+MO,Maavah outside,GRO,MEL,2,2019,outside
+MO,Maavah outside,GRO,MIN,2,2019,outside
+MO,Maavah outside,GRO,ROG,7,2019,outside
+MO,Maavah outside,GRO,SON,24,2019,outside
+MO,Maavah outside,GRO,SPIL,13,2019,outside
+MO,Maavah outside,PAR,3COLOR,4,2019,outside
+MO,Maavah outside,PAR,DUSKY,1,2019,outside
+MO,Maavah outside,PAR,EMBER,3,2019,outside
+MO,Maavah outside,PAR,GFACE,5,2019,outside
+MO,Maavah outside,PAR,SCABER,10,2019,outside
+MO,Maavah outside,PAR,SHEEPHEAD,10,2019,outside
+MO,Maavah outside,PAR,SORDID,26,2019,outside
+MO,Maavah outside,SNAP,BLACK,63,2019,outside
+MO,Maavah outside,SNAP,CHEK,3,2019,outside
+MO,Maavah outside,SNAP,FUR,2,2019,outside
+MO,Maavah outside,SNAP,GIB,1670,2019,outside
+MO,Maavah outside,SNAP,MID,30,2019,outside
+MO,Maavah outside,SNAP,MONOS,47,2019,outside
+MO,Maavah outside,SNAP,RED,44,2019,outside
+MO,Maavah outside,TRIG,IND,25,2019,outside
+MO,Maavah outside,TRIG,STR,21,2019,outside
+MO,Maavah outside,TRIG,SUFC,1,2019,outside
+MO,Maavah outside,TRIG,WHITE,17,2019,outside
+OC,Olhuveli corner,BUT,CIT,19,2019,channel
+OC,Olhuveli corner,BUT,DECU,2,2019,channel
+OC,Olhuveli corner,BUT,FAL,2,2019,channel
+OC,Olhuveli corner,BUT,KLE,21,2019,channel
+OC,Olhuveli corner,BUT,LUN,2,2019,channel
+OC,Olhuveli corner,BUT,MEY,2,2019,channel
+OC,Olhuveli corner,BUT,PYR,1,2019,channel
+OC,Olhuveli corner,BUT,TFT,3,2019,channel
+OC,Olhuveli corner,GRO,ARG,5,2019,channel
+OC,Olhuveli corner,GRO,FAS,1,2019,channel
+OC,Olhuveli corner,GRO,MIN,3,2019,channel
+OC,Olhuveli corner,PAR,3COLOR,2,2019,channel
+OC,Olhuveli corner,PAR,BIC,1,2019,channel
+OC,Olhuveli corner,PAR,DUSKY,2,2019,channel
+OC,Olhuveli corner,PAR,EMBER,8,2019,channel
+OC,Olhuveli corner,PAR,GFACE,10,2019,channel
+OC,Olhuveli corner,PAR,ROSY,1,2019,channel
+OC,Olhuveli corner,PAR,SORDID,17,2019,channel
+OC,Olhuveli corner,SNAP,VIR,1,2019,channel
+OC,Olhuveli corner,TRIG,CIN,1,2019,channel
+OC,Olhuveli corner,TRIG,CLN,3,2019,channel
+OC,Olhuveli corner,TRIG,IND,9,2019,channel
+OC,Olhuveli corner,TRIG,STR,6,2019,channel
+OC,Olhuveli corner,TRIG,SUFB,1,2019,channel
+OC,Olhuveli corner,TRIG,SUFF,3,2019,channel
+OC,Olhuveli corner,TRIG,UNKNOWN,2,2019,channel
+OR,Olhuveli reef,BUT,AUR,26,2019,inside
+OR,Olhuveli reef,BUT,FAL,2,2019,inside
+OR,Olhuveli reef,BUT,LUN,4,2019,inside
+OR,Olhuveli reef,BUT,MEL,6,2019,inside
+OR,Olhuveli reef,BUT,MEY,1,2019,inside
+OR,Olhuveli reef,BUT,PYR,9,2019,inside
+OR,Olhuveli reef,BUT,TFT,9,2019,inside
+OR,Olhuveli reef,BUT,TRI,8,2019,inside
+OR,Olhuveli reef,EMP,GRA,22,2019,inside
+OR,Olhuveli reef,EMP,OBS,3,2019,inside
+OR,Olhuveli reef,GRO,EPH,5,2019,inside
+OR,Olhuveli reef,GRO,COE,1,2019,inside
+OR,Olhuveli reef,GRO,FUS,4,2019,inside
+OR,Olhuveli reef,GRO,LEO,2,2019,inside
+OR,Olhuveli reef,GRO,MIN,2,2019,inside
+OR,Olhuveli reef,GRO,ROG,8,2019,inside
+OR,Olhuveli reef,GRO,ARG,13,2019,inside
+OR,Olhuveli reef,GRO,LEA,1,2019,inside
+OR,Olhuveli reef,GRO,LEU,5,2019,inside
+OR,Olhuveli reef,GRO,SON,3,2019,inside
+OR,Olhuveli reef,PAR,BIC,5,2019,inside
+OR,Olhuveli reef,PAR,DUSKY,4,2019,inside
+OR,Olhuveli reef,PAR,SHEEPHEAD,2,2019,inside
+OR,Olhuveli reef,PAR,SORDID,2,2019,inside
+OR,Olhuveli reef,SNAP,FUL,2,2019,inside
+OR,Olhuveli reef,SNAP,FUR,4,2019,inside
+OR,Olhuveli reef,SNAP,GIB,14,2019,inside
+OR,Olhuveli reef,SNAP,KAS,13,2019,inside
+OR,Olhuveli reef,SNAP,MONOS,10,2019,inside
+OR,Olhuveli reef,TRIG,STR,20,2019,inside
+OR,Olhuveli reef,TRIG,SUFB,4,2019,inside
+OR,Olhuveli reef,TRIG,SUFC,3,2019,inside
+OR,Olhuveli reef,TRIG,TIT,1,2019,inside
+PT,Pink thila,BUT,AUR,2,2019,thila
+PT,Pink thila,BUT,FAL,4,2019,thila
+PT,Pink thila,BUT,GUT,4,2019,thila
+PT,Pink thila,BUT,INT,2,2019,thila
+PT,Pink thila,BUT,KLE,3,2019,thila
+PT,Pink thila,BUT,LN,15,2019,thila
+PT,Pink thila,BUT,MEL,5,2019,thila
+PT,Pink thila,BUT,MEY,4,2019,thila
+PT,Pink thila,BUT,PHA,4,2019,thila
+PT,Pink thila,BUT,PYR,3,2019,thila
+PT,Pink thila,BUT,TFT,14,2019,thila
+PT,Pink thila,BUT,TRI,3,2019,thila
+PT,Pink thila,BUT,XAN,3,2019,thila
+PT,Pink thila,EMP,LMIC,1,2019,thila
+PT,Pink thila,GRO,ARE,8,2019,thila
+PT,Pink thila,GRO,ARG,3,2019,thila
+PT,Pink thila,GRO,COE,2,2019,thila
+PT,Pink thila,GRO,LOU,1,2019,thila
+PT,Pink thila,PAR,BIC,1,2019,thila
+PT,Pink thila,PAR,DUSKY,13,2019,thila
+PT,Pink thila,PAR,LNOSE,2,2019,thila
+PT,Pink thila,PAR,ROSY,1,2019,thila
+PT,Pink thila,PAR,SHEEPHEAD,11,2019,thila
+PT,Pink thila,PAR,SORDID,8,2019,thila
+PT,Pink thila,SNAP,GIB,2,2019,thila
+PT,Pink thila,SNAP,KAS,5,2019,thila
+PT,Pink thila,SNAP,MONOS,40,2019,thila
+PT,Pink thila,TRIG,STR,10,2019,thila
+PT,Pink thila,TRIG,SUFB,2,2019,thila
+RDH,Rahdhashuhaa,BUT,AUR,2,2019,thila
+RDH,Rahdhashuhaa,BUT,COL,10,2019,thila
+RDH,Rahdhashuhaa,BUT,FAL,2,2019,thila
+RDH,Rahdhashuhaa,BUT,GUT,6,2019,thila
+RDH,Rahdhashuhaa,BUT,KLE,39,2019,thila
+RDH,Rahdhashuhaa,BUT,LN,30,2019,thila
+RDH,Rahdhashuhaa,BUT,LUN,4,2019,thila
+RDH,Rahdhashuhaa,BUT,MADA,6,2019,thila
+RDH,Rahdhashuhaa,BUT,MEY,1,2019,thila
+RDH,Rahdhashuhaa,BUT,PYR,2,2019,thila
+RDH,Rahdhashuhaa,BUT,TFT,16,2019,thila
+RDH,Rahdhashuhaa,BUT,TRI,7,2019,thila
+RDH,Rahdhashuhaa,BUT,XAN,1,2019,thila
+RDH,Rahdhashuhaa,EMP,AUR,2,2019,thila
+RDH,Rahdhashuhaa,EMP,ERY,3,2019,thila
+RDH,Rahdhashuhaa,EMP,LMIC,1,2019,thila
+RDH,Rahdhashuhaa,EMP,MONO,20,2019,thila
+RDH,Rahdhashuhaa,GRO,ALBO,8,2019,thila
+RDH,Rahdhashuhaa,GRO,ARG,10,2019,thila
+RDH,Rahdhashuhaa,GRO,C.NIGRIPINNIS,2,2019,thila
+RDH,Rahdhashuhaa,GRO,LEA,1,2019,thila
+RDH,Rahdhashuhaa,GRO,LEO,3,2019,thila
+RDH,Rahdhashuhaa,GRO,LEU,5,2019,thila
+RDH,Rahdhashuhaa,GRO,LOU,1,2019,thila
+RDH,Rahdhashuhaa,GRO,MIN,33,2019,thila
+RDH,Rahdhashuhaa,GRO,ROG,21,2019,thila
+RDH,Rahdhashuhaa,PAR,3COLOR,3,2019,thila
+RDH,Rahdhashuhaa,PAR,BARTAIL,2,2019,thila
+RDH,Rahdhashuhaa,PAR,BIC,1,2019,thila
+RDH,Rahdhashuhaa,PAR,DUSKY,10,2019,thila
+RDH,Rahdhashuhaa,PAR,ROSY,2,2019,thila
+RDH,Rahdhashuhaa,PAR,SORDID,27,2019,thila
+RDH,Rahdhashuhaa,SNAP,IND,12,2019,thila
+RDH,Rahdhashuhaa,SNAP,MID,1,2019,thila
+RDH,Rahdhashuhaa,SNAP,MONOS,5,2019,thila
+RDH,Rahdhashuhaa,SNAP,RED,4,2019,thila
+RDH,Rahdhashuhaa,TRIG,STR,21,2019,thila
+RDH,Rahdhashuhaa,TRIG,SUFB,10,2019,thila
