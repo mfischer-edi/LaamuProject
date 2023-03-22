@@ -694,7 +694,7 @@ plot(cor.dif.lm.pred)
     annotate("text", x = 29.5, y = 27.5,
              label = "paste(italic(R) ^ 2, \" = 0.24, p < 0.05\")", 
              parse = T, size = 5) +
-    scale_colour_manual(values = c("#1e8df4", "#d42020")) +
+    scale_colour_manual(values = c("#d42020","#1e8df4")) +
     geom_hline(yintercept = 0, linetype = 2, alpha = 0.6) +
     labs(x = "Coral cover in 2019 (%)", 
          y = "Difference in coral cover") + 
@@ -727,7 +727,7 @@ plot(cor.ch.lm2.pred)
     annotate("text", x = 20.4, y = 345,
              label = "paste(italic(R) ^ 2, \" = 0.23, p < 0.05\")", 
              parse = T, size = 5) +
-    scale_colour_manual(values = c("#1e8df4", "#d42020")) +
+    scale_colour_manual(values = c("#d42020","#1e8df4")) +
     geom_hline(yintercept = 0, linetype = 2, alpha = 0.6) +
     labs(x = "Coral cover in 2021/22 (%)", 
          y = "% change in coral cover") + 
@@ -762,7 +762,7 @@ plot(cor.dif.lm2.pred)
     annotate("text", x = 20.8, y = 27.5,
              label = "paste(italic(R) ^ 2, \" = 0.55, p < 0.001\")", 
              parse = T, size = 5) +
-    scale_colour_manual(values = c("#1e8df4", "#d42020")) +
+    scale_colour_manual(values = c("#d42020","#1e8df4")) +
     geom_hline(yintercept = 0, linetype = 2, alpha = 0.6) +
     labs(x = "Coral cover in 2021/22 (%)", 
          y = "Difference in coral cover") + 
@@ -881,7 +881,7 @@ plot(change.lm.pred)
     annotate("text", x = 70.9, y = 350,
              label = "paste(italic(R) ^ 2, \" = 0.15, p = 0.057\")", 
              parse = T, size = 6) +
-    scale_colour_manual(values = c("#1e8df4", "#d42020")) +
+    scale_colour_manual(values = c("#d42020","#1e8df4")) +
     geom_hline(yintercept = 0, linetype = 2, alpha = 0.6) +
     geom_vline(xintercept = 0, linetype = 2, alpha = 0.6) +
     scale_x_continuous(breaks = c(-40, -20, 0, 20, 40, 60, 80, 100, 120, 140)) +
@@ -1014,7 +1014,7 @@ total_impacts <- impact_count %>%
           axis.text = element_text(size = 16),
           plot.margin = unit(c(0.5, 0.1, 0.5, 0.1), "cm")))
 
-# Combine
+# Combine both plots
 (all_impacts <- plot_grid(impacts_bar, total_impacts_bar, ncol = 2, 
                           align = "hv", axis = "bt",
                           rel_widths = c(2, 1), 
