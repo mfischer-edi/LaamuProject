@@ -411,9 +411,9 @@ coral_long <- coral_long %>%
           plot.margin = unit(c(0.5, 0.5, 0.5, 0.5), "cm"))
 )
 
-save_plot(coral_stack, filename = "outputs/coral_stack.png")
+#save_plot(coral_stack, filename = "outputs/coral_stack.png")
 
-ggsave(coral_stack, filename = "outputs/coral_stack.png", height = 6, width = 7)
+#ggsave(coral_stack, filename = "outputs/coral_stack.png", height = 6, width = 7)
 
 # by depth
 (coral_stack_dep <- ggplot(coral_long, aes(x = Depth, y = Percent, fill = Cover)) +
@@ -432,7 +432,7 @@ ggsave(coral_stack, filename = "outputs/coral_stack.png", height = 6, width = 7)
 )
 ## very similar across depths
 
-ggsave(coral_stack_dep, filename = "outputs/coral_stack_dep.png", height = 6, width = 7)
+#ggsave(coral_stack_dep, filename = "outputs/coral_stack_dep.png", height = 6, width = 7)
 
 # Reorder reef types
 coral_long$Reef.type <- factor(coral_long$Reef.type,
@@ -456,7 +456,6 @@ coral_long$Reef.type <- factor(coral_long$Reef.type,
           plot.margin = unit(c(0.5, 0.5, 0.5, 0.5), "cm"))
 )
 # quite marked diffs, lowest in channel, and highest in thila
-# why does it look higher for outer than inner reef here? Doesn't match with averages from earlier
 
 # Plot with coord flipepd
 (coral_stack_rt2 <- ggplot(coral_long, aes(x = Reef.type, y = Percent, fill = Cover)) +
@@ -624,7 +623,7 @@ hist(perc_rep$Acropora)
 m1 <- lmer(Acropora ~ Depth + (1|Site.name), data = perc_rep)
 summary(m1)
 plot(m1)
-simulateResiduals(m1, plot = T)  # red!
+simulateResiduals(m1, plot = T)  # red
 anova(m1)  # n.s
 
 ## Effect of reef type on Acropora cover ----
