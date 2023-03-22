@@ -4,13 +4,13 @@ This repository contains code and data necessary to replicate data analysis and 
 
 ## Navigation
 
-- [Code](https://github.com/mfischer-edi/LaamuHub/tree/main/code): Contains script to run data analysis and plot figures
-- [Data](https://github.com/mfischer-edi/LaamuHub/tree/main/data): Contains data necessary to run the script
-- [Outputs](https://github.com/mfischer-edi/LaamuHub/tree/main/outputs): Contains outputs from the script
+- [Code](https://github.com/mfischer-edi/LaamuProject/tree/main/code): Contains scripts to run data analysis and plot figures
+- [Data](https://github.com/mfischer-edi/LaamuProject/tree/main/data): Contains data necessary to run the scripts
+- [Outputs](https://github.com/mfischer-edi/LaamuProject/tree/main/outputs): Contains outputs from the script
 
 ## Data
 
-The data were collected by Maldives Reslient Reefs, Blue Marine Foundation, and Six Senses Laamu from November 2021 to June 2022.
+The data were collected by team memebers from Maldives Reslient Reefs, Blue Marine Foundation, and Maldives Underwater Initiative at Six Senses Laamu from November 2021 to June 2022.
 
 ## Requirements
 
