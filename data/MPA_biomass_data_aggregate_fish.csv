@@ -1,0 +1,59 @@
+Inside MPA,,,,,Importance,Biomass,,outside MPA,,,,Biomass,Importance
+hithadhoo_corner,channel,PAR,EMBER,,eco,54609.50789,,kurethi_outside,outside,GRO,SEX,18053,com
+hithadhoo_corner,channel,SNAP,KAS,,com,27451,,kurethi_outside,outside,T&J,MEL,1912.81,com
+hithadhoo_corner,channel,PAR,STEEPHEAD,,eco,11047.18229,,kurethi_outside,outside,EMP,MONO,1895,com
+hithadhoo_corner,channel,SNAP,MID,,com,5439.003868,,kurethi_outside,outside,PAR,SORDID,1643.26,eco
+hithadhoo_corner,channel,PAR,GFACE,,eco,4840.2584,,kurethi_outside,outside,GRO,ARG,1416,com
+hithadhoo_corner,channel,PAR,LNOSE,,eco,3236.256021,,kurethi_outside,outside,PAR,BLUEBAR,1279.06,eco
+hithadhoo_corner,channel,PAR,3 COLOUR,,eco,2608.36316,,kurethi_outside,outside,PAR,STEEPHEAD,809.96,eco
+hithadhoo_corner,channel,PAR,ECLIPSE,,eco,2536.81375,,kurethi_outside,outside,SNAP,MID,678.92,com
+hithadhoo_corner,channel,SNAP,GIB,,com,1902,,kurethi_outside,outside,SNAP,FUR,666,com
+hithadhoo_corner,channel,T&J,MEL,,com,1852,,kurethi_outside,outside,SNAP,GIB,634,com
+hithadhoo_corner,channel,SNAP,RED,,com,1821,,kurethi_outside,outside,PAR,LNOSE,430.89,eco
+hithadhoo_corner,channel,PAR,SQ,,eco,1558.834221,,kurethi_outside,outside,SNAP,FUL,396,com
+hithadhoo_corner,channel,RAB,STR,,com,936.292658,,kurethi_outside,outside,PAR,3 COLOUR,343.8,eco
+hithadhoo_corner,channel,GRO,POL,,com,726,,kurethi_outside,outside,SNAP,RED,308,com
+hithadhoo_corner,channel,GRO,ARG,,com,613,,kurethi_outside,outside,EMP,OLI,266,com
+hithadhoo_corner,channel,PAR,ROSY,,eco,410.811999,,kurethi_outside,outside,GRO,ARE,151,com
+hithadhoo_corner,channel,GRO,MIN,,com,110,,kurethi_outside,outside,RAB,STR,108.8,com
+hithadhoo_corner,channel,PAR,SORDID,,eco,14.81883524,,kurethi_outside,outside,GRO,LEO,103,com
+hithadhoo_inside,inside,T&J,MEL,,com,11329,,kurethi_outside,outside,GRO,SPIL,74,com
+hithadhoo_inside,inside,PAR,STEEPHEAD,,eco,9549.78706,,kurethi_outside,outside,SNAP,KAS,66,com
+hithadhoo_inside,inside,SNAP,MONOS,,com,8103,,kurethi_outside,outside,GRO,ROG,64,com
+hithadhoo_inside,inside,PAR,BLUEBAR,,eco,5963.76787,,kurethi_outside,outside,PAR,GFACE,6.06,eco
+hithadhoo_inside,inside,EMP,MONO,,com,4700,,kurethi_outside,outside,PAR,DUSKY,4.02,eco
+hithadhoo_inside,inside,PAR,DUSKY,,eco,4380.177283,,kurethi_outside,outside,PAR,ROSY,3.79,eco
+hithadhoo_inside,inside,PAR,SORDID,,eco,4332.003404,,olhuveli_corner,channel,SNAP,MID,4445.136218,com
+hithadhoo_inside,inside,SNAP,KAS,,com,2650,,olhuveli_corner,channel,PAR,STEEPHEAD,1214.949876,eco
+hithadhoo_inside,inside,GRO,LEU,,com,1921,,olhuveli_corner,channel,PAR,GFACE,1178.25415,eco
+hithadhoo_inside,inside,T&J,LUG,,com,1637,,olhuveli_corner,channel,GRO,ARG,1008,com
+hithadhoo_inside,inside,PAR,LNOSE,,eco,1144.480058,,olhuveli_corner,channel,GRO,LEA,889.0272424,com
+hithadhoo_inside,inside,RAB,SGR,,com,1107.307096,,olhuveli_corner,channel,PAR,BLUEBAR,847.759218,eco
+hithadhoo_inside,inside,SNAP,MID,,com,889.027244,,olhuveli_corner,channel,PAR,FRENATUS,567.7533175,eco
+hithadhoo_inside,inside,SNAP,FUL,,com,880,,olhuveli_corner,channel,PAR,ECLIPSE,423.879609,eco
+hithadhoo_inside,inside,GRO,MIN,,com,789,,olhuveli_corner,channel,EMP,MONO,379,com
+hithadhoo_inside,inside,T&J,BLOCH,,com,743.643335,,olhuveli_corner,channel,SNAP,FUR,333,com
+hithadhoo_inside,inside,GRO,COE,,com,647,,olhuveli_corner,channel,PAR,DUSKY,299.7641457,eco
+hithadhoo_inside,inside,SNAP,GIB,,com,634,,olhuveli_corner,channel,T&J,MEL,164,com
+hithadhoo_inside,inside,GRO,ARG,,com,613,,olhuveli_corner,channel,PAR,3 COLOUR,132.1205381,eco
+hithadhoo_inside,inside,PAR,SCABER,,eco,580.176438,,olhuveli_corner,channel,GRO,ROG,128,com
+hithadhoo_inside,inside,RAB,STR,,com,468.146329,,olhuveli_corner,channel,PAR,EMBER,125.250002,eco
+hithadhoo_inside,inside,SNAP,CHEK,,com,356.8823076,,olhuveli_corner,channel,PAR,ROSY,93.30537407,eco
+hithadhoo_inside,inside,SNAP,FUR,,com,333,,olhuveli_corner,channel,PAR,SORDID,14.81883524,eco
+hithadhoo_inside,inside,PAR,ROSY,,eco,89.5457883,,,,,,,
+hithadhoo_inside,inside,GRO,MER,,com,57,,,,,,,
+hithadhoo_west,channel,PAR,STEEPHEAD,,eco,49302.08626,,,,,,,
+hithadhoo_west,channel,T&J,ORTH,,com,15685,,,,,,,
+hithadhoo_west,channel,PAR,GFACE,,eco,14417.64563,,,,,,,
+hithadhoo_west,channel,PAR,SORDID,,eco,5113.077863,,,,,,,
+hithadhoo_west,channel,EMP,MONO,,com,3642,,,,,,,
+hithadhoo_west,channel,GRO,ARG,,com,1834,,,,,,,
+hithadhoo_west,channel,GRO,SCAB,,com,1783.147997,,,,,,,
+hithadhoo_west,channel,SNAP,MID,,com,1778.054488,,,,,,,
+hithadhoo_west,channel,PAR,3 COLOUR,,eco,1638.739654,,,,,,,
+hithadhoo_west,channel,PAR,BARTAIL,,eco,1304.18158,,,,,,,
+hithadhoo_west,channel,SNAP,GIB,,com,634,,,,,,,
+hithadhoo_west,channel,GRO,MIN,,com,478.3734354,,,,,,,
+hithadhoo_west,channel,GRO,ROG,,com,360,,,,,,,
+hithadhoo_west,channel,SNAP,FUR,,com,333,,,,,,,
+hithadhoo_west,channel,PAR,ROSY,,eco,268.6373649,,,,,,,
